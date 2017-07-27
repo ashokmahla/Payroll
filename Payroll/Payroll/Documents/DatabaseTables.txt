@@ -10,16 +10,20 @@ Proposed Database Structure
 8) Task
 9) Role
 -----------------------Payroll Section-----------------
-1) Payroll
-2) Timesheet
-3) Project
-4) Salary
-5) Hourly
-6) Deduction
-7) Holidays
-8) Sickdays
-9) Bonus
 
+---------------------------Newely identified tables according to whatsapp images--------------------
+10) Slab
+11) PayGroup
+12) Component
+13) Leave and Leave Group
+14) Holiday
+15) Loan
+16) Tax and Tax Deduction
+17) Reimbursement
+18) Salary
+19) Adjustments
+20 ) Increments / Arrears / Bonus
+21) Asset
 
 
 	
