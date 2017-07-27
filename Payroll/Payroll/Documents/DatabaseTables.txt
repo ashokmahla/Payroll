@@ -1,0 +1,28 @@
+Proposed Database Structure 
+-----------------------Admin Section-----------------
+1) Tenent
+2) Employee
+3) Address
+4) Department
+5) Registration
+6) EmployeeType
+7) JobTitle
+8) Task
+9) Role
+-----------------------Payroll Section-----------------
+1) Payroll
+2) Timesheet
+3) Project
+4) Salary
+5) Hourly
+6) Deduction
+7) Holidays
+8) Sickdays
+9) Bonus
+
+
+
+	
+		
+		
+	

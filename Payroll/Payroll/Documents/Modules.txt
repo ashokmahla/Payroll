@@ -1,0 +1,131 @@
+Proposed Modules in the System
+------------------------------------
+
+Setup Menu
+----------------------------------
+		User Manager
+		Slab
+		PayGroup
+		Component
+		Component Settings
+		Leave Group
+		Leave
+		Holiday
+		Loan
+		Others
+		Employee Other Information
+		----------------------
+		Tax Section
+		Tax Component
+		Reimbursement Release
+		Payslip Password Setting
+----------------------------------------------------
+Master Menu
+----------------------------
+		Employee Personal Details
+		Employee Openning Balance
+		---------------
+		Salary Details - Fixed Earnings
+		Salary Details - Fixed Deduction
+		Salary Details- Fixed Others
+		Reimbursement Eligiblity
+
+----------------------------------------------------
+Transaction Menu
+----------------------------
+		Salary Details - Variable Earnings
+		Salary Details - Variable Deduction
+		Salary Details - Variable Others
+		-----------------------------------
+		Adjustments - Earnings
+		Adjustments - Deductions
+		Adjustments - Others
+		---------------------------------
+		Leave Entry
+		Leave Encashment
+		------------------------
+		Loan Entry
+		Loan Rescheduler
+		------------------------
+		Reimbursement Bills
+		Reimbursement Claim
+		-----------------------
+		Increments / Arrears
+		Arrear Days
+		---------------------
+		Salary Hold
+		Salary Release
+		---------------------
+		Full and Final Settlement
+
+----------------------------------------------------
+Tax Menu
+----------------------------
+		Tax Declarations
+		Furniture Perks
+		Tax Adjustments
+		Tax Remittance
+		---------------
+		One Time Tax
+		---------------
+		Tax Computation Template
+		-----------------
+		Asset Master
+
+----------------------------------------------------
+
+Process Menu
+----------------------------
+		Pay Process Optimized 2
+		Confirm Process
+		---------------
+		Revoke Process
+
+----------------------------------------------------
+
+Import Menu
+----------------------------
+	    Setup Data
+		Employee Data
+		Salary Data
+
+----------------------------------------------------
+Utlities Menu
+----------------------------
+		Change Password
+		----------------
+		View Salary Data
+		View Tax Data
+		View Component Tree
+		--------------------
+		Mail Employees
+		--------------------
+		FAQ Entry
+		FAQ Search
+----------------------------------------------------
+Reports Menu
+----------------------------
+		Payslip
+		-------
+		PF/ESI
+		eForm 3A-DBF Generation
+		-------
+		Tax Computation Sheet
+		---------------------
+		Reports- MIS/Analytics/Statutory
+		Attach Reports
+----------------------------------------------------
+Add-Ins Menu
+---------------------------
+		Configure Plugins
+		------------------
+		Import Increment Data
+		Import PTLocation Data
+		Previous Pay Process
+		Previous Tax Declarations
+		Rent Free Accommodation-2007
+		Statutory Reports
+		Reconcilation Reports
+		Tax Computation Reports
+		Rent Receipt Import
+----------------------------------------------------	
